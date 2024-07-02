@@ -8,5 +8,7 @@ Output
    simple interest = p*t*r
 
 
+```html
 <span style="color: red;">Red Item</span>
+```
 $${\color{red}Red}$$
