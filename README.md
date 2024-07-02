@@ -9,3 +9,4 @@ Output
 
 
 <span style="color: red;">Red Item</span>
+$${\color{red}Red}$$
